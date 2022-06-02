@@ -4,14 +4,14 @@
   "private": true,
   "homepage": "http://stephengrider.github.io/redux-code",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.27.2",
     "diff": "^3.5.0",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "prettier": "^1.15.3",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1",
+    "react-scripts": "^5.0.1",
     "react-select": "^2.1.2"
   },
   "scripts": {
